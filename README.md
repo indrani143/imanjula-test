@@ -1,6 +1,6 @@
 # GitHub Actions Fundamentals
 
-Repo for the `GitHub Actions Fundamentals` training batch OCT 2026
+Repo for the `GitHub Actions Fundamentals` training batch OCT 2026 tezt
 
 ## 👉 Objectives
 
