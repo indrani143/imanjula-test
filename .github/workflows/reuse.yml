@@ -7,6 +7,6 @@ on:
 
 jobs:
   call-reusable:
-    uses: ./.github/workflows/reuse.yml
+    uses: ./.github/workflows/reusable.yml
     with:
       who-to-greet: '@octocat'
